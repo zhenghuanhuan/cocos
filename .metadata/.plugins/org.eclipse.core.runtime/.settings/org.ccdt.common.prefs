@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.ccdt.common.jdk_path=/usr/bin
+org.ccdt.common.lua_engine_custompath=/Users/zhenghuanhuan/Documents/cocos2d-x-3.3
+org.ccdt.common.lua_engine_path=/Users/zhenghuanhuan/Documents/cocos2d-x-3.3
+org.ccdt.common.python_path=/usr/bin

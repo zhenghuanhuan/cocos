@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.ccdt.lua.debug.cocosluadebug">
+<mapAttribute key="android">
+<mapEntry key="android.host" value="10.97.61.30"/>
+<mapEntry key="android.runtime_path" value="runtime/android/PrebuiltRuntimeLua.apk"/>
+<mapEntry key="target_id" value="false"/>
+</mapAttribute>
+<stringAttribute key="dbgp_session_id" value="luaidekey"/>
+<intAttribute key="dbpg_waiting_timeout" value="30000"/>
+<booleanAttribute key="disable_live_coding" value="false"/>
+<booleanAttribute key="disable_using_upload" value="false"/>
+<booleanAttribute key="force_update_entry_file" value="true"/>
+<mapAttribute key="ios">
+<mapEntry key="ios.runtime_path" value="runtime/ios/PrebuiltRuntimeLua.app"/>
+<mapEntry key="ios.simulator_family" value=""/>
+<mapEntry key="target_id" value="false"/>
+</mapAttribute>
+<mapAttribute key="mac">
+<mapEntry key="mac.runtime_path" value="runtime/mac/PrebuiltRuntimeLua.app"/>
+<mapEntry key="target_id" value="true"/>
+</mapAttribute>
+<stringAttribute key="nature" value="org.eclipse.koneki.ldt.nature"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/CocosLuaGame"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="process_factory_id" value="org.ccdt.dltk.launching.scriptProcessFactory"/>
+<stringAttribute key="project" value="CocosLuaGame"/>
+<mapAttribute key="remote">
+<mapEntry key="remote.device" value="127.0.0.1"/>
+<mapEntry key="remote.host" value="127.0.0.1"/>
+<mapEntry key="remote.platform" value="Android"/>
+<mapEntry key="target_id" value="false"/>
+</mapAttribute>
+<stringAttribute key="runtime_arguments" value=""/>
+<stringAttribute key="target_id" value="mac"/>
+</launchConfiguration>

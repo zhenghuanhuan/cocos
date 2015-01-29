@@ -1,0 +1,50 @@
+!SESSION 2015-01-26 16:03:01.409 -----------------------------------------------
+eclipse.buildId=
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.ccdt.intro.product -keyring /Users/zhenghuanhuan/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.ccdt.intro.product -keyring /Users/zhenghuanhuan/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-01-26 16:04:13.861
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-26 16:07:41.923
+!MESSAGE NLS unused message: CheckoutDialog_WindowTitle in: org.eclipse.egit.ui.internal.uitext
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-26 16:07:41.924
+!MESSAGE NLS unused message: CreateBranchPage_MergeRadioButton in: org.eclipse.egit.ui.internal.uitext
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-26 16:07:41.924
+!MESSAGE NLS unused message: CreateBranchPage_NoneRadioButton in: org.eclipse.egit.ui.internal.uitext
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-26 16:07:41.924
+!MESSAGE NLS unused message: CheckoutDialog_Rename in: org.eclipse.egit.ui.internal.uitext
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-26 16:07:41.924
+!MESSAGE NLS unused message: CheckoutDialog_Delete in: org.eclipse.egit.ui.internal.uitext
+!SESSION 2015-01-27 14:57:16.433 -----------------------------------------------
+eclipse.buildId=
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.ccdt.intro.product -keyring /Users/zhenghuanhuan/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.ccdt.intro.product -keyring /Users/zhenghuanhuan/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-01-27 14:57:25.622
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-27 14:57:27.792
+!MESSAGE NLS unused message: CheckoutDialog_WindowTitle in: org.eclipse.egit.ui.internal.uitext
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-27 14:57:27.793
+!MESSAGE NLS unused message: CreateBranchPage_MergeRadioButton in: org.eclipse.egit.ui.internal.uitext
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-27 14:57:27.794
+!MESSAGE NLS unused message: CreateBranchPage_NoneRadioButton in: org.eclipse.egit.ui.internal.uitext
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-27 14:57:27.794
+!MESSAGE NLS unused message: CheckoutDialog_Rename in: org.eclipse.egit.ui.internal.uitext
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-27 14:57:27.794
+!MESSAGE NLS unused message: CheckoutDialog_Delete in: org.eclipse.egit.ui.internal.uitext

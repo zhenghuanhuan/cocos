@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="114" environment="org.ccdt.dltk.core.environment.localEnvironment">
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src" timestamp="1422259660000" lastAccessTime="1422341862374">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2075528504/1.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos" timestamp="1422259660000" lastAccessTime="1422341862377">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/236945276/3.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/Cocos2d.lua" timestamp="1422259660000" lastAccessTime="1422341862366">
+    <attributes name="indexed" location="959585215/3720422522/45.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d" timestamp="1422259660000" lastAccessTime="1422341862376">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2660306552/5.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/Cocos2dConstants.lua" timestamp="1422259660000" lastAccessTime="1422341862363">
+    <attributes name="indexed" location="959585215/3720422522/97.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/DeprecatedCocos2dClass.lua" timestamp="1422259660000" lastAccessTime="1422341862367">
+    <attributes name="indexed" location="959585215/3720422522/53.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/DeprecatedCocos2dEnum.lua" timestamp="1422259660000" lastAccessTime="1422341862371">
+    <attributes name="indexed" location="959585215/3720422522/89.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/DeprecatedCocos2dFunc.lua" timestamp="1422259660000" lastAccessTime="1422341862366">
+    <attributes name="indexed" location="959585215/3720422522/41.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/DeprecatedOpenglEnum.lua" timestamp="1422259660000" lastAccessTime="1422341862361">
+    <attributes name="indexed" location="959585215/3720422522/73.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/DrawPrimitives.lua" timestamp="1422259660000" lastAccessTime="1422341862361">
+    <attributes name="indexed" location="959585215/3720422522/83.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/Opengl.lua" timestamp="1422259660000" lastAccessTime="1422341862362">
+    <attributes name="indexed" location="959585215/3720422522/71.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/OpenglConstants.lua" timestamp="1422259660000" lastAccessTime="1422341862370">
+    <attributes name="indexed" location="959585215/3720422522/59.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/extern.lua" timestamp="1422259660000" lastAccessTime="1422341862368">
+    <attributes name="indexed" location="959585215/3720422522/57.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/json.lua" timestamp="1422259660000" lastAccessTime="1422341862361">
+    <attributes name="indexed" location="959585215/3720422522/85.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/luaj.lua" timestamp="1422259660000" lastAccessTime="1422341862365">
+    <attributes name="indexed" location="959585215/3720422522/87.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/luaoc.lua" timestamp="1422259660000" lastAccessTime="1422341862370">
+    <attributes name="indexed" location="959585215/3720422522/91.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocosbuilder/CCBReaderLoad.lua" timestamp="1422259660000" lastAccessTime="1422341862363">
+    <attributes name="indexed" location="959585215/423229759/37.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocosbuilder" timestamp="1422259660000" lastAccessTime="1422341862365">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2660306552/7.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocosbuilder/DeprecatedCocosBuilderClass.lua" timestamp="1422259660000" lastAccessTime="1422341862362">
+    <attributes name="indexed" location="959585215/423229759/27.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocosdenshion/AudioEngine.lua" timestamp="1422259660000" lastAccessTime="1422341862371">
+    <attributes name="indexed" location="959585215/752040052/61.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocosdenshion" timestamp="1422259660000" lastAccessTime="1422341862365">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2660306552/9.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocosdenshion/DeprecatedCocosDenshionClass.lua" timestamp="1422259660000" lastAccessTime="1422341862354">
+    <attributes name="indexed" location="959585215/752040052/29.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocosdenshion/DeprecatedCocosDenshionFunc.lua" timestamp="1422259660000" lastAccessTime="1422341862352">
+    <attributes name="indexed" location="959585215/752040052/81.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocostudio/CocoStudio.lua" timestamp="1422259660000" lastAccessTime="1422341862369">
+    <attributes name="indexed" location="959585215/2723575041/49.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocostudio" timestamp="1422259660000" lastAccessTime="1422341862365">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2660306552/11.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocostudio/DeprecatedCocoStudioClass.lua" timestamp="1422259660000" lastAccessTime="1422341862366">
+    <attributes name="indexed" location="959585215/2723575041/31.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocostudio/DeprecatedCocoStudioFunc.lua" timestamp="1422259660000" lastAccessTime="1422341862360">
+    <attributes name="indexed" location="959585215/2723575041/63.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocostudio/StudioConstants.lua" timestamp="1422259660000" lastAccessTime="1422341862355">
+    <attributes name="indexed" location="959585215/2723575041/35.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/controller/ControllerConstants.lua" timestamp="1422259660000" lastAccessTime="1422341862368">
+    <attributes name="indexed" location="959585215/1817687978/65.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/controller" timestamp="1422259660000" lastAccessTime="1422341862365">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2660306552/13.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/extension/DeprecatedExtensionClass.lua" timestamp="1422259660000" lastAccessTime="1422341862368">
+    <attributes name="indexed" location="959585215/1440988674/101.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/extension" timestamp="1422259660000" lastAccessTime="1422341862365">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2660306552/15.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/extension/DeprecatedExtensionEnum.lua" timestamp="1422259660000" lastAccessTime="1422341862329">
+    <attributes name="indexed" location="959585215/1440988674/25.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/extension/DeprecatedExtensionFunc.lua" timestamp="1422259660000" lastAccessTime="1422341862364">
+    <attributes name="indexed" location="959585215/1440988674/77.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/extension/ExtensionConstants.lua" timestamp="1422259660000" lastAccessTime="1422341862364">
+    <attributes name="indexed" location="959585215/1440988674/43.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/network/DeprecatedNetworkClass.lua" timestamp="1422259660000" lastAccessTime="1422341862330">
+    <attributes name="indexed" location="959585215/790256318/33.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/network" timestamp="1422259660000" lastAccessTime="1422341862365">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2660306552/17.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/network/DeprecatedNetworkEnum.lua" timestamp="1422259660000" lastAccessTime="1422341862331">
+    <attributes name="indexed" location="959585215/790256318/69.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/network/DeprecatedNetworkFunc.lua" timestamp="1422259660000" lastAccessTime="1422341862367">
+    <attributes name="indexed" location="959585215/790256318/99.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/network/NetworkConstants.lua" timestamp="1422259660000" lastAccessTime="1422341862370">
+    <attributes name="indexed" location="959585215/790256318/47.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/spine/SpineConstants.lua" timestamp="1422259660000" lastAccessTime="1422341862366">
+    <attributes name="indexed" location="959585215/3118804324/55.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/spine" timestamp="1422259660000" lastAccessTime="1422341862365">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2660306552/19.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/ui" timestamp="1422259660000" lastAccessTime="1422341862378">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2660306552/21.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/ui/GuiConstants.lua" timestamp="1422259660000" lastAccessTime="1422341862354">
+    <attributes name="indexed" location="959585215/3911138218/67.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/ui/experimentalUIConstants.lua" timestamp="1422259660000" lastAccessTime="1422341862354">
+    <attributes name="indexed" location="959585215/3911138218/79.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/ui/DeprecatedUIEnum.lua" timestamp="1422259660000" lastAccessTime="1422341862373">
+    <attributes name="indexed" location="959585215/3911138218/105.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/ui/DeprecatedUIFunc.lua" timestamp="1422259660000" lastAccessTime="1422341862378">
+    <attributes name="indexed" location="959585215/3911138218/113.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/cocos2d/bitExtend.lua" timestamp="1422259660000" lastAccessTime="1422341862375">
+    <attributes name="indexed" location="959585215/3720422522/109.idx"/>
+  </entries>
+  <entries path="/Users/zhenghuanhuan/Documents/cocos/CocosLuaGame/src/cocos/init.lua" timestamp="1422259660000" lastAccessTime="1422341862376">
+    <attributes name="indexed" location="959585215/2660306552/111.idx"/>
+  </entries>
+</cache:CacheIndex>
